@@ -1,0 +1,19 @@
+h1 {
+	color: RGB(0,0,0);
+	font-family: Arial;
+	font-style: bold;
+	text-align: center;
+}
+
+h2 {
+	 color: RGB(255,139,51);
+	font-family: Arial;
+	font-style: italic;
+	text-align: left;
+}
+
+p {
+	color: RGB(0,0,0);
+	font-family: Arial;
+	text-align: justify;
+}
